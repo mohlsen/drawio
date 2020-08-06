@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T13:13:40.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="s4xyg_sx7Kg1APzhqvil" version="13.6.0" type="github"><diagram id="0sMSFP3nVKLN4Ooo6PaC">ddHBDsIgDADQr+EOIy56nlMvnnbwTEYdJGwlDLPp17tl4CTTE+W1UFIIL9rx7IRVV5RgSEblSPiRZBnLWT4tszyD0EOQxmkZbIVKvyAWBn1oCX1S6BGN1zbFGrsOap+YcA6HtOyOJu1qRQMbqGphtnrT0qtF9zu6+gV0o2JnRkOmFbE4QK+ExOGLeEl44RD9ErVjAWaeXpzLcu70J/t5mIPO/zgwBevd0yb5Il6+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-06T13:23:04.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="y-jwQk1huViKZbREqQCX" version="13.6.0" type="github">
+  <diagram id="0sMSFP3nVKLN4Ooo6PaC" name="Page-1">
+    <mxGraphModel dx="1616" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pg7nxedMQWfvc_XFtjsv-8" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="210" height="371.6" as="geometry" />
+        </mxCell>
+        <mxCell id="pg7nxedMQWfvc_XFtjsv-9" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" vertex="1" parent="pg7nxedMQWfvc_XFtjsv-8">
+          <mxGeometry x="33" y="261" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pg7nxedMQWfvc_XFtjsv-6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.power_strip;" vertex="1" parent="pg7nxedMQWfvc_XFtjsv-8">
+          <mxGeometry x="33" y="281" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pg7nxedMQWfvc_XFtjsv-7" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="pg7nxedMQWfvc_XFtjsv-8">
+          <mxGeometry x="33" y="301" width="168" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
